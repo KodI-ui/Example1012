@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Example1012</string>
+    <string name="ok_mess">OKOKOKOOKOKOKOKOKOK</string>
+    <string name="button_name">KNOPA</string>
+    <string name="button1">Button1</string>
+    <string name="name">Name</string>
+    <string name="enter_password">enter password</string>
+</resources>
